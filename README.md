@@ -4,7 +4,7 @@ Hi 👋 My name is Julia Vister
 Computer Scientist student
 --------------------------
 
-I am currently a Computer Scientist student, and I learned I have a strong interest in the IT field. In particular, I find AI, Game development and Frontend very interesting. Currently learning C++ and C from coding classes at my Uni.
+I am currently a Computer Scientist student, with an eagerness to learn about technology. In particular, I find AI, Game development and Frontend very interesting. Currently learning C++ and C from coding classes at my Uni, plus developing other skills. 
 
 *   🌍  I'm based in Lodz, Poland
 *   ✉️  You can contact me at [juliavister@gmail.com](mailto:juliavister@gmail.com)
