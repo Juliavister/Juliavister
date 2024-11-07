@@ -4,11 +4,12 @@ Hi 👋 My name is Julia Vister
 Computer Scientist student
 --------------------------
 
-I am currently a Computer Scientist student, with an eagerness to learn about technology. In particular, I find AI, Game development and Frontend very interesting. Currently learning C++ and C from coding classes at my Uni, plus developing other skills. 
+Information Security master student at UiO. Bachelor in Computer Science from UL. 
+In addition to Frontend development - which i mostly do, I find AI, game, and app development very interesting and fun. 
 
-*   🌍  I'm based in Lodz, Poland
+*   🌍  I'm based in Oslo, Norway
 *   ✉️  You can contact me at [juliavister@gmail.com](mailto:juliavister@gmail.com)
-*   🧠  I'm learning Programming, Data Structures, Linux### Skills<p align="left">
+*   🧠  I'm learning Security in Software, Ethical Hacking, Linux<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
                                 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
