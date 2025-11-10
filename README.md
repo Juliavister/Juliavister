@@ -1,7 +1,7 @@
 Hi 👋 My name is Julia Vister
 =============================
 
-Computer Scientist student
+Cybersecurity + Developing
 --------------------------
 
 Information Security master student at UiO. Bachelor in Computer Science from UL. 
